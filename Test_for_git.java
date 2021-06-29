@@ -17,6 +17,7 @@ public class Test_for_git {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("GitTest");
+        System.out.println("V2TEST");
     }
     
 }
